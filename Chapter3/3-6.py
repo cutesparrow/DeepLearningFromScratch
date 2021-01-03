@@ -8,7 +8,7 @@ def softmax(a):
    y = exp_a/sum_exp_a
    return y
 def getData():
-    (x_train, y_train), (x_test, y_test) = tf.keras.datasets.mnist.load_data()
+    (_,_), (x_test, y_test) = tf.keras.datasets.mnist.load_data()
     return x_test.reshape((x_test.shape[0],-1)),y_test
 
 def initNetwork():

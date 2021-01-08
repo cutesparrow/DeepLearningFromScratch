@@ -11,3 +11,4 @@ plt.ylabel('y')
 plt.title('sin&cos')
 plt.legend()
 plt.show()
+				

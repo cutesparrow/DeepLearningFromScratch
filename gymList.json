@@ -1,0 +1,14 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "lat": -37.81182294764945,
+            "long": 144.96396366254962,
+            "name": "Fitness First Bourke St",
+            "Images": ["gym1","gym2","gym3"],
+            "limitation": 21, "distance": 3.23,
+            "star": false,
+            "address": "Level 2/341-345 Bourke St, Melbourne VIC 3000"
+        }
+    ]
+}
